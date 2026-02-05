@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Увеличиваем размеры для планшетов -->
+    <dimen name="photo_width">250dp</dimen>
+    <dimen name="photo_height">300dp</dimen>
+    <dimen name="text_title">36sp</dimen>
+    <dimen name="text_subtitle">24sp</dimen>
+    <dimen name="text_caption">20sp</dimen>
+    <dimen name="spacing_small">12dp</dimen>
+    <dimen name="spacing_medium">24dp</dimen>
+    <dimen name="spacing_large">32dp</dimen>
+</resources>

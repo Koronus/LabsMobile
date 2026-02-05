@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Общие значения наследуются из values/dimens.xml -->
+
+    <dimen name="image_width_portrait">173dp</dimen>  <!-- Переопределяем для landscape -->
+    <dimen name="image_height_portrait">168dp</dimen> <!-- Переопределяем для landscape -->
+
+    <!-- Горизонтальные смещения  -->
+    <dimen name="bias_h_center_portrait">0.5</dimen>         <!-- Общее -->
+    <dimen name="bias_h_name_portrait">0.488</dimen>         <!-- Для landscape -->
+    <dimen name="bias_h_messenger_portrait">0.413</dimen>    <!-- Для landscape -->
+    <dimen name="bias_h_telegram_portrait">0.666</dimen>     <!-- Для landscape -->
+    <dimen name="bias_h_contacts_portrait">0.451</dimen>     <!-- Для landscape -->
+
+
+    <!-- Вертикальные позиции  -->
+    <dimen name="bias_v_image_portrait">0.0</dimen>          <!-- Верх для landscape -->
+    <dimen name="bias_v_name_portrait">0.522</dimen>         <!-- Для landscape -->
+    <dimen name="bias_v_group_portrait">0.635</dimen>        <!-- Для landscape -->
+    <dimen name="bias_v_activ_portrait">0.723</dimen>        <!-- Для landscape -->
+    <dimen name="bias_v_contacts_portrait">0.838</dimen>     <!-- Для landscape -->
+    <dimen name="bias_v_messengers_portrait">0.93</dimen>    <!-- Для landscape -->
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Визитка</string>
+    <string name="developer_name">Тепляков Данил</string>
+    <string name="activ_developer">Разработчик мобильных приложений</string>
+    <string name="group">Группа: Б23-191-1</string>
+    <string name="massendger">Телеграмм:</string>
+    <string name="telegram">teplyakov18</string>
+    <string name="contacts">Контакты для связи</string>
+</resources>

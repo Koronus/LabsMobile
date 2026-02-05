@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BusinesСard</string>
+    <string name="developer_name">Teplyakov Danil</string>
+    <string name="activ_developer">Android Developer Mobile Applications</string>
+    <string name="contacts">Сontacts for communication</string>
+    <string name="group">Group: Б23-191-1</string>
+    <string name="massendger">Telegram:</string>
+    <string name="telegram">teplyakov18</string>
+
+    
+</resources>

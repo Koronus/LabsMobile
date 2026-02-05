@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="photo_width">187dp</dimen>
+    <dimen name="photo_height">220dp</dimen>
+    <dimen name="text_title">30sp</dimen>
+    <dimen name="text_subtitle">20sp</dimen>
+    <dimen name="text_caption">18sp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+
+    <!-- Общие размеры текста для обеих ориентаций -->
+    <dimen name="text_size_title">30sp</dimen>
+    <dimen name="text_size_subtitle">20sp</dimen>
+    <dimen name="text_size_caption">18sp</dimen>
+
+    <!-- Высоты элементов -->
+    <dimen name="height_small">24dp</dimen>
+
+    <!-- Ширина текста -->
+    <dimen name="text_width_fixed">141dp</dimen>
+
+    <!-- Цвета (ссылки на цвета) -->
+    <dimen name="color_transparent">0</dimen>
+
+    <!-- Размеры изображения -->
+    <dimen name="image_width_portrait">187dp</dimen>
+    <dimen name="image_height_portrait">220dp</dimen>
+
+    <!-- Горизонтальные смещения -->
+    <dimen name="bias_h_center_portrait">0.5</dimen>
+    <dimen name="bias_h_name_portrait">0.525</dimen>
+    <dimen name="bias_h_messenger_portrait">0.389</dimen>
+    <dimen name="bias_h_telegram_portrait">0.911</dimen>
+    <dimen name="bias_h_contacts_portrait">0.426</dimen>
+
+    <!-- Вертикальные позиции -->
+    <dimen name="bias_v_image_portrait">0.183</dimen>
+    <dimen name="bias_v_name_portrait">0.47</dimen>
+    <dimen name="bias_v_group_portrait">0.569</dimen>
+    <dimen name="bias_v_activ_portrait">0.644</dimen>
+    <dimen name="bias_v_contacts_portrait">0.721</dimen>
+    <dimen name="bias_v_messengers_portrait">0.785</dimen>
+</resources>
